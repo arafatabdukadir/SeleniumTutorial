@@ -1,2 +1,0 @@
-# SeleniumTutorial
-Automation Testing training
